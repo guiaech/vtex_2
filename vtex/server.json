@@ -1,0 +1,58 @@
+{
+    "produtos":[
+        {
+            "id": 1,
+            "name": "Galaxy ZFold",
+            "price": 13999,
+            "photo":"https://novomundo.vtexassets.com/arquivos/ids/13012938-1000-1000",
+            "description": "GALAXY ZFLOLD, BLUE Imagens meramente ilustrativas.Todas as informações divulgadas são de responsabilidade do Fabricante/Fornecedor."
+
+            
+        },
+        {
+            "id": 2,
+            "name": "Motorola Razr",
+            "price": 3999,
+            "photo":"https://images-americanas.b2w.io/produtos/01/00/img/1524058/4/1524058431_1GG.jpg",
+            "description": "MOTOROLA RAZR 128, MODELO XT2000-2, BLACK Imagens meramente ilustrativas.Todas as informações divulgadas são de responsabilidade do Fabricante/Fornecedor"
+            
+            
+        },
+        {
+            "id": 3,
+            "name": "Mi Mix Fold",
+            "price": 10000,
+            "photo":"https://t.ctcdn.com.br/O0rSeF2I5cnBO2d4eQu4t9obyEM=/fit-in/400x400/filters:fill(transparent):watermark(wm/prd.png,-32p,center,1,none,15)/i444412.png",
+            "description": "Mi Mix Fold, Mi Mix Fold, BLACK Imagens meramente ilustrativas.Todas as informações divulgadas são de responsabilidade do Fabricante/Fornecedor"
+            
+            
+        },
+        {
+            "id": 4,
+            "name": "Xiaomi Mi 11 Ultra",
+            "price": 2500,
+            "photo":"https://www.notebookcheck.info/uploads/tx_nbc2/XiaomiMi11Ultra.jpg",
+            "description": "Xiaomi Mi 11 Ultra, Xiaomi Mi 11 Ultra, BLACK Imagens meramente ilustrativas.Todas as informações divulgadas são de responsabilidade do Fabricante/Fornecedor"
+            
+            
+        },
+        {
+            "id": 5,
+            "name": "MI 11 5G 256GB",
+            "price": 9000,
+            "photo":"https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/26/97/2697_smartphone-xiaomi-mi-11-5g-tela-681-8gb256gb-c00318_z9_637551146435378534.png",
+            "description": "MI 11 5G 256GB, MI 11 5G 256GB, BLACK Imagens meramente ilustrativas.Todas as informações divulgadas são de responsabilidade do Fabricante/Fornecedor"
+            
+            
+        },
+        {
+            "id": 6,
+            "name": "Xiaomi Mi 10S",
+            "price": 3999,
+            "photo":"http://nillkin.org/image/cache/data/product-7441/2-800x800.jpg",
+            "description": "Xiaomi Mi 10S, Xiaomi Mi 10S, BLACK Imagens meramente ilustrativas.Todas as informações divulgadas são de responsabilidade do Fabricante/Fornecedor"
+            
+            
+        }
+    ]
+}
