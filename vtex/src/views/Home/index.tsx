@@ -1,7 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect,} from 'react';
 import { Container } from './styled';
 import api from '../../services/api';
 import logo from './images/logo.png';
+
+
 
 
 interface IProduct{
